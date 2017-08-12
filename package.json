@@ -46,9 +46,6 @@
     "commander": "2.0.0",
     "mqtt": "0.3.9"
   },
-  "bin": {
-    "pomelo": "./bin/pomelo"
-  },
   "devDependencies": {
     "should": "3.3.1",
     "mocha": ">=0.0.1",

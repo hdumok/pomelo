@@ -1,0 +1,15 @@
+{
+  "name": "pomelo-status-plugin",
+  "version": "0.0.6",
+  "private": false,
+  "author": "py8765 pengyang633@126.com/@py8765",
+  "contributors":[
+  	{
+  		"name": "gitig"
+  	}
+  ],
+  "dependencies": {
+    "redis": "0.10.0",
+    "pomelo-logger": "0.1.2"
+  }
+}
